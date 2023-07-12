@@ -45,19 +45,19 @@
 </clipPath>
 </defs>
 <g stroke-linecap="butt" >
-<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M945 434 L945 193" />
-<path stroke-dasharray="none" d="M939.0 428.0 L951.0 428.0 M939.0 422.6000003814697 L951.0 422.6000003814697" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
-<path stroke-dasharray="none" d="M951.0 193.0 L945.0 205.0 L939.0 193.0 M951.0 205.5999994277954 L939.0 205.5999994277954" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M944 434 L944 235" />
+<path stroke-dasharray="none" d="M938.0 428.0 L950.0 428.0 M938.0 422.6000003814697 L950.0 422.6000003814697" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M950.0 235.0 L944.0 247.0 L938.0 235.0 M950.0 247.5999994277954 L938.0 247.5999994277954" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
 </g>
 <g stroke-linecap="butt" >
-<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M245 439 L245 214" />
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M245 439 L245 243" />
 <path stroke-dasharray="none" d="M239.0 433.0 L251.0 433.0 M239.0 427.6000003814697 L251.0 427.6000003814697" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
-<path stroke-dasharray="none" d="M251.0 214.0 L245.0 226.0 L239.0 214.0 M251.0 226.5999994277954 L239.0 226.5999994277954" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M251.0 243.0 L245.0 255.0 L239.0 243.0 M251.0 255.5999994277954 L239.0 255.5999994277954" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
 </g>
 <g stroke-linecap="butt" >
-<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M513 146 L420 146" />
-<path stroke-dasharray="none" d="M507.0 152.0 L507.0 140.0 M501.6000003814697 152.0 L501.6000003814697 140.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
-<path stroke-dasharray="none" d="M420.0 140.0 L432.0 146.0 L420.0 152.0 M432.5999994277954 140.0 L432.5999994277954 152.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M508 185 L409 185" />
+<path stroke-dasharray="none" d="M502.0 191.0 L502.0 179.0 M496.6000003814697 191.0 L496.6000003814697 179.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M409.0 179.0 L421.0 185.0 L409.0 191.0 M421.5999994277954 179.0 L421.5999994277954 191.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
 </g>
 <g stroke-linecap="butt" >
 <path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M1170 488 L1054 488" />
@@ -65,9 +65,9 @@
 <path stroke-dasharray="none" d="M1054.0 482.0 L1066.0 488.0 L1054.0 494.0 M1066.5999994277954 482.0 L1066.5999994277954 494.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
 </g>
 <g stroke-linecap="butt" >
-<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M729 135 L836 135" />
-<path stroke-dasharray="none" d="M735.0 129.0 L735.0 141.0 M740.3999996185303 129.0 L740.3999996185303 141.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
-<path stroke-dasharray="none" d="M836.0 141.0 L824.0 135.0 L836.0 129.0 M823.4000005722046 141.0 L823.4000005722046 129.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M724 181 L835 181" />
+<path stroke-dasharray="none" d="M730.0 175.0 L730.0 187.0 M735.3999996185303 175.0 L735.3999996185303 187.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M835.0 187.0 L823.0 181.0 L835.0 175.0 M822.4000005722046 187.0 L822.4000005722046 175.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
 </g>
 <g stroke-linecap="butt" >
 <path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M361 493 L515 493" />
@@ -78,42 +78,6 @@
 <path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M822 490 L734 490" />
 <path stroke-dasharray="none" d="M816.0 496.0 L816.0 484.0 M810.6000003814697 496.0 L810.6000003814697 484.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
 <path stroke-dasharray="none" d="M734.0 484.0 L746.0 490.0 L734.0 496.0 M746.5999994277954 484.0 L746.5999994277954 496.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
-</g>
-<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath5_0_)" transform="translate(836,83)" >
-<rect x="0" y="0" width="217" height="109" />
-<text id="B946D595-AA75B5410444" x="91" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
-Gustan
-</text>
-<line x1="0" y1="18" x2="216" y2="18" fill="none" stroke="rgb(0,0,255)"/>
-<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-*
-</text>
-<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
-PF
-</text>
-<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-id_bebedor
-</text>
-<text x="100" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
-NUMBER
-</text>
-<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-*
-</text>
-<text x="2" y="46" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
-PF
-</text>
-<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-id_bebida
-</text>
-<text x="100" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
-NUMBER
-</text>
-<line x1="0" y1="52" x2="216" y2="52" fill="none" stroke="rgb(0,0,255)"/>
-<use xlink:href="#pk_sym" x="4" y="59" width="8" height="8" fill-opacity="1.0"/>
-<text x="16" y="66" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-Gustan PK (id_bebedor, id_bebida)
-</text>
 </g>
 <g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath1_0_)" transform="translate(130,439)" >
 <rect x="0" y="0" width="230" height="123" />
@@ -173,57 +137,6 @@ NUMBER
 <use xlink:href="#pk_sym" x="4" y="101" width="8" height="8" fill-opacity="1.0"/>
 <text x="16" y="108" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
 BAR PK (id)
-</text>
-</g>
-<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath2_0_)" transform="translate(513,78)" >
-<rect x="0" y="0" width="215" height="109" />
-<text id="8252F54D-B35EB9839CC7" x="87" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
-Bebedor
-</text>
-<line x1="0" y1="18" x2="214" y2="18" fill="none" stroke="rgb(0,0,255)"/>
-<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-*
-</text>
-<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
-P
-</text>
-<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-id
-</text>
-<text x="102" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
-NUMBER
-</text>
-<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-
-</text>
-<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-nombre
-</text>
-<text x="102" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
-VARCHAR2 (255 BYTE)
-</text>
-<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-
-</text>
-<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-ciudad
-</text>
-<text x="102" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
-VARCHAR2 (255 BYTE)
-</text>
-<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-
-</text>
-<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-presupuesto
-</text>
-<text x="102" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
-VARCHAR2 (255 BYTE)
-</text>
-<line x1="0" y1="80" x2="214" y2="80" fill="none" stroke="rgb(0,0,255)"/>
-<use xlink:href="#pk_sym" x="4" y="87" width="8" height="8" fill-opacity="1.0"/>
-<text x="16" y="94" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-BEBEDOR PK (id)
 </text>
 </g>
 <g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath7_0_)" transform="translate(1170,432)" >
@@ -361,7 +274,94 @@ VARCHAR2 (255 BYTE)
 Sirven PK (id_bar, id_bebida, horario)
 </text>
 </g>
-<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath4_0_)" transform="translate(122,104)" >
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath5_0_)" transform="translate(835,125)" >
+<rect x="0" y="0" width="217" height="109" />
+<text id="B946D595-AA75B5410444" x="91" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+Gustan
+</text>
+<line x1="0" y1="18" x2="216" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+PF
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+id_bebedor
+</text>
+<text x="100" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="46" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+PF
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+id_bebida
+</text>
+<text x="100" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER
+</text>
+<line x1="0" y1="52" x2="216" y2="52" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="59" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="66" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Gustan PK (id_bebedor, id_bebida)
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath2_0_)" transform="translate(508,128)" >
+<rect x="0" y="0" width="215" height="109" />
+<text id="8252F54D-B35EB9839CC7" x="87" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+Bebedor
+</text>
+<line x1="0" y1="18" x2="214" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+id
+</text>
+<text x="102" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+nombre
+</text>
+<text x="102" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (255 BYTE)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ciudad
+</text>
+<text x="102" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (255 BYTE)
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+presupuesto
+</text>
+<text x="102" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (255 BYTE)
+</text>
+<line x1="0" y1="80" x2="214" y2="80" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="87" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="94" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+BEBEDOR PK (id)
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath4_0_)" transform="translate(111,133)" >
 <rect x="0" y="0" width="297" height="109" />
 <text id="A4BEEBD9-0BC37E1BF63A" x="121" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
 Frecuentan
