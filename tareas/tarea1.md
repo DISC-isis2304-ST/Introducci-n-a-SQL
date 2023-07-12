@@ -9,6 +9,6 @@
 - Eliminación de una tabla en particular teniendo en cuenta restricciones. 
 
 ## Modelo entidad-relación
-![](https://raw.githubusercontent.com/DISC-isis2304-ST/Introduccion-a-SQL/74978666b03aef1fe2c0919b80204f906686c487/modelos/e_relacion.svg)
+![](https://raw.githubusercontent.com/DISC-isis2304-ST/Introduccion-a-SQL/7d333b495576f224ab92edbd4927ab7205158435/modelos/e_relacion.svg)
 
 ## Actividad Sugerida
