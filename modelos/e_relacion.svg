@@ -143,108 +143,6 @@ NUMBER
 Gustan PK (id_bebedor, id_bebida)
 </text>
 </g>
-<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath3_0_)" transform="translate(756,365)" >
-<rect x="0" y="0" width="237" height="109" />
-<text id="C0583877-FB5B814A40C7" x="102" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
-Bebida
-</text>
-<line x1="0" y1="18" x2="236" y2="18" fill="none" stroke="rgb(0,0,255)"/>
-<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-*
-</text>
-<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
-P
-</text>
-<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-id
-</text>
-<text x="115" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
-NUMBER
-</text>
-<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-
-</text>
-<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-nombre
-</text>
-<text x="115" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
-VARCHAR2 (255 BYTE)
-</text>
-<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-
-</text>
-<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-grado_alcohol
-</text>
-<text x="115" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
-NUMBER
-</text>
-<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-
-</text>
-<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-tipo
-</text>
-<text x="115" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
-VARCHAR2 (255 BYTE)
-</text>
-<line x1="0" y1="80" x2="236" y2="80" fill="none" stroke="rgb(0,0,255)"/>
-<use xlink:href="#pk_sym" x="4" y="87" width="8" height="8" fill-opacity="1.0"/>
-<text x="16" y="94" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-Bebida PK (id)
-</text>
-</g>
-<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath2_0_)" transform="translate(449,83)" >
-<rect x="0" y="0" width="218" height="109" />
-<text id="8252F54D-B35EB9839CC7" x="89" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
-Bebedor
-</text>
-<line x1="0" y1="18" x2="217" y2="18" fill="none" stroke="rgb(0,0,255)"/>
-<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-*
-</text>
-<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
-P
-</text>
-<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-id
-</text>
-<text x="102" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
-NUMBER
-</text>
-<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-
-</text>
-<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-nombre
-</text>
-<text x="102" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
-VARCHAR2 (255 BYTE)
-</text>
-<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-
-</text>
-<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-ciudad
-</text>
-<text x="102" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
-VARCHAR2 (255 BYTE)
-</text>
-<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-
-</text>
-<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-presupuesto
-</text>
-<text x="102" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
-VARCHAR2 (255 BYTE)
-</text>
-<line x1="0" y1="80" x2="217" y2="80" fill="none" stroke="rgb(0,0,255)"/>
-<use xlink:href="#pk_sym" x="4" y="87" width="8" height="8" fill-opacity="1.0"/>
-<text x="16" y="94" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-BEBEDOR PK (id)
-</text>
-</g>
 <g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath6_0_)" transform="translate(468,364)" >
 <rect x="0" y="0" width="169" height="109" />
 <text id="5B64E7A8-4D05B6084CB6" x="68" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
@@ -339,6 +237,108 @@ NUMBER
 <use xlink:href="#pk_sym" x="4" y="101" width="8" height="8" fill-opacity="1.0"/>
 <text x="16" y="108" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
 BAR PK (id)
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath3_0_)" transform="translate(756,365)" >
+<rect x="0" y="0" width="237" height="109" />
+<text id="C0583877-FB5B814A40C7" x="102" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+Bebida
+</text>
+<line x1="0" y1="18" x2="236" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+id
+</text>
+<text x="115" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+nombre
+</text>
+<text x="115" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (255 BYTE)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+grado_alcohol
+</text>
+<text x="115" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+tipo
+</text>
+<text x="115" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ENUM
+</text>
+<line x1="0" y1="80" x2="236" y2="80" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="87" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="94" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Bebida PK (id)
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath2_0_)" transform="translate(449,83)" >
+<rect x="0" y="0" width="218" height="109" />
+<text id="8252F54D-B35EB9839CC7" x="89" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+Bebedor
+</text>
+<line x1="0" y1="18" x2="217" y2="18" fill="none" stroke="rgb(0,0,255)"/>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+id
+</text>
+<text x="102" y="32" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+NUMBER
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+nombre
+</text>
+<text x="102" y="46" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (255 BYTE)
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ciudad
+</text>
+<text x="102" y="60" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (255 BYTE)
+</text>
+<text x="16" y="74" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+
+</text>
+<text x="26" y="74" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+presupuesto
+</text>
+<text x="102" y="74" fill="rgb(0,128,0)" fill-opacity="1.0" font-size="10" stroke="none">
+VARCHAR2 (255 BYTE)
+</text>
+<line x1="0" y1="80" x2="217" y2="80" fill="none" stroke="rgb(0,0,255)"/>
+<use xlink:href="#pk_sym" x="4" y="87" width="8" height="8" fill-opacity="1.0"/>
+<text x="16" y="94" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+BEBEDOR PK (id)
 </text>
 </g>
 
