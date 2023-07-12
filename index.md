@@ -7,7 +7,7 @@ Para esta aplicación ya se cuenta con el modelo de datos, indicando las tablas 
 Con este fin, realizaremos diversas tareas a lo largo de este Proyecto Guiado para aprender a crear y manipular tablas en nuestra base de datos, poblarla con datos y realizar diferentes tipos de consultas sobre nuestros datos usando el lenguaje SQL. 
 
 ## Modelo conceptual Parranderos
-![](https://1drv.ms/i/s!AvYMeubWkQXrgT7h_Afh9uJjESf8?e=4J4IRi)
+![](https://github.com/DISC-isis2304-ST/Introduccion-a-SQL/blob/ff4e42e9c76930f18648177404b9a1601e38040c/modelos/parranderos_UML.png?raw=true)
 
 ## Tareas 
 - Tarea 1: [DDL Parte 1](https://disc-isis2304-st.github.io/Introduccion-a-SQL/tareas/tarea1)
