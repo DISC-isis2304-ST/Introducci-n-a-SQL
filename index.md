@@ -11,8 +11,8 @@ Con este fin, realizaremos diversas tareas a lo largo de este Proyecto Guiado pa
 
 ## Tareas 
 - **Tarea 1:** [DDL Parte 1](https://disc-isis2304-st.github.io/Introduccion-a-SQL/tareas/tarea1)
-- Tarea 2: [DML: Sentencias básicas](https://disc-isis2304-st.github.io/Introduccion-a-SQL/tareas/tarea2)
-- Tarea 3: [DML: Consultas básicas](https://disc-isis2304-st.github.io/Introduccion-a-SQL/tareas/tarea3)
-- Tarea 4: [DML: Consultas intermedias parte 1](https://disc-isis2304-st.github.io/Introduccion-a-SQL/tareas/tarea4)
-- Tarea 5: [DML: Consultas intermedias parte 2](https://disc-isis2304-st.github.io/Introduccion-a-SQL/tareas/tarea5)
-- Tarea 6: [DML: Consultas avanzadas](https://disc-isis2304-st.github.io/Introduccion-a-SQL/tareas/tarea5)
+- **Tarea 2:** [DML: Sentencias básicas](https://disc-isis2304-st.github.io/Introduccion-a-SQL/tareas/tarea2)
+- **Tarea 3:** [DML: Consultas básicas](https://disc-isis2304-st.github.io/Introduccion-a-SQL/tareas/tarea3)
+- **Tarea 4:** [DML: Consultas intermedias parte 1](https://disc-isis2304-st.github.io/Introduccion-a-SQL/tareas/tarea4)
+- **Tarea 5:** [DML: Consultas intermedias parte 2](https://disc-isis2304-st.github.io/Introduccion-a-SQL/tareas/tarea5)
+- **Tarea 6:** [DML: Consultas avanzadas](https://disc-isis2304-st.github.io/Introduccion-a-SQL/tareas/tarea5)
