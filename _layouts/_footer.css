@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-@import "_variables";
+@import "_variables.css";
 
 .social-icons li a {
   display: inline-block;
