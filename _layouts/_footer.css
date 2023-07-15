@@ -14,14 +14,20 @@
  * limitations under the License.
  */
 
-@import "_variables.css";
+ 
+/* @import "_variables.css"; */
+
+img {
+  max-width: 100%;
+  height: auto;
+}
 
 .social-icons li a {
   display: inline-block;
   width: 40px;
   height: 40px;
   text-indent: -9999px;
-  background-image: url("../images/f5f9e1f9d3c85a39173556715015fdf8.png");
+  background-image: url("../_layouts/LogosFdepartamento_220_110.png");
   background-repeat: no-repeat;
   position: relative;
   background-color: #fff;
@@ -36,7 +42,8 @@
 
 
 #footer {
-  background-color: black;
+  background: rgb(0, 0, 0) !important;
+  color: rgb(255, 255, 255) !important;
   font-size: 13px;
   padding: 40px 0;
 
@@ -47,7 +54,11 @@
   }
 
   a {
-    color: #607D8B;
+    color: rgb(11, 120, 161) !important;
+  }
+
+  a:hover {
+    color: rgb(177, 230, 250) !important;
   }
 
   .footer-wrapper {
@@ -70,6 +81,15 @@
       margin: 8px 0 8px*2;
     }
   }
+}
+
+#footer a {
+  color: rgb(11, 120, 161) !important;
+  text-decoration: none;
+}
+
+#footer a:hover {
+  color: rgb(177, 230, 250) !important;
 }
 
 .footerbar {
@@ -193,7 +213,7 @@
   display:inline-block;
   width:40px; height:40px; /*DIOA*/
   text-indent:-9999px; 
-  background-image:url(../images/f5f9e1f9d3c85a39173556715015fdf8.png); 
+  background-image:url(../_layouts/LogosFdepartamento_220_110.png); 
   background-repeat: no-repeat; position:relative; 
   background-color: #ffffff; -webkit-border-radius:10px; /*DIOA*/
   -moz-border-radius:10px; border-radius:20px;
@@ -226,10 +246,10 @@
 
 .social-icons li.social-Mujeres a {background-position: -4px  -11px;}  /* -x -y   */
 .social-icons li.social-Labs a {background-position:-45px -11px;}
-.social-icons li.social-Econtinuada a {background-position:-83px -11px;}
+.social-icons li.social-Rincon a {background-position:-83px -11px;}
 .social-icons li.social-Cupi2 a {background-position:-124px -11px;}
 .social-icons li.social-Publica a {background-position:-167px -11px;}
-.social-icons li.social-Rincon a {background-position:-4px -56px;}
+.social-icons li.social-Econtinuada a {background-position:-4px -56px;}
 .social-icons li.social-Conflicto a {background-position:-45px -56px;}
 .social-icons li.social-Paradigma a {background-position: -83px  -55px;}  /* -x -y   */
 .social-icons li.social-sisinfo a {background-position: -124px  -52px;} 

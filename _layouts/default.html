@@ -1,12 +1,78 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: " en-US" }}">
+
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% seo %}
-  <link rel="stylesheet" href="https://raw.githubusercontent.com/DISC-isis2304-ST/Introduccion-a-SQL/main/_layouts/_footer.css">
+  <link rel="stylesheet" href="../_layouts/_footer.css" type="text/css">
+  <!-- <style type="text/css">
+    .container {
+      max-width: 940px
+    }
+
+    body {
+      font-family: 'PT Sans';
+    }
+
+    #sp-logo-wrapper {
+      background: rgb(255, 255, 255) !important;
+    }
+
+    #sp-menuredes-wrapper {
+      background: rgb(255, 255, 255) !important;
+      padding: 10 !important;
+    }
+
+    #sp-header-wrapper {
+      color: rgb(0, 0, 0) !important;
+    }
+
+    #sp-main-body-wrapper {
+      background: rgba(246, 180, 74, 0) !important;
+      padding: 30px 0 !important;
+    }
+
+    #sp-logo-wrapper {
+      background: rgb(255, 255, 255) !important;
+    }
+
+    #sp-menuredes-wrapper {
+      background: rgb(255, 255, 255) !important;
+      padding: 10 !important;
+    }
+
+    #sp-header-wrapper {
+      color: rgb(0, 0, 0) !important;
+    }
+
+    #sp-main-body-wrapper {
+      background: rgba(246, 180, 74, 0) !important;
+      padding: 30px 0 !important;
+    }
+
+    #sp-footer-wrapper {
+      background: rgb(0, 0, 0) !important;
+      color: rgb(255, 255, 255) !important;
+      padding: 30px 0 !important;
+    }
+
+    #sp-footer-wrapper a {
+      color: rgb(11, 120, 161) !important;
+    }
+
+    #sp-footer-wrapper a:hover {
+      color: rgb(177, 230, 250) !important;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  </style> -->
 </head>
+
 <body>
   <div class="container-lg px-3 my-5 markdown-body">
     <a href="{{ '/' | absolute_url }}">
@@ -14,37 +80,48 @@
     </a>
     {{ content }}
     {% if site.github.private != true and site.github.license %}
-      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
-        This site is open source. {% github_edit_link "Improve this page" %}.
-      </div>
+    <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+      This site is open source. {% github_edit_link "Improve this page" %}.
+    </div>
     {% endif %}
   </div>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js"
+    integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
   <script>anchors.add();</script>
   {% if site.google_analytics %}
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-      ga('create', '{{ site.google_analytics }}', 'auto');
-      ga('send', 'pageview');
-    </script>
+  <script>
+    (function (i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    ga('create', '{{ site.google_analytics }}', 'auto');
+    ga('send', 'pageview');
+  </script>
   {% endif %}
   <footer id="footer">
     <div class="custom">
       <div class="footer" style="text-align: center;">
         <div id="websis-icon" class="social-icons">
           <ul class="websis">
-            <li class="social-Mujeres"><a href="https://mujeresencomputacion.uniandes.edu.co/" target="_blank" rel="noopener noreferrer">DIOA</a></li>
-            <li class="social-Labs"><a href="https://labsis.uniandes.edu.co/" target="_blank" rel="noopener noreferrer">DIOA</a></li>
-            <li class="social-Publica"><a href="https://sistemas.uniandes.edu.co/investigacion/publicaciones-proyectos/publicaciones" target="_blank" rel="noopener noreferrer">DIOA</a></li>
-            <li class="social-Cupi2"><a href="http://cupi2.uniandes.edu.co/" target="_blank" rel="noopener noreferrer">DIOA</a></li>
-            <li class="social-Econtinuada"><a href="http://educacioncontinuada.uniandes.edu.co/index.php/es/" target="_blank" rel="noopener noreferrer">DIOA</a></li>
-            <li class="social-Conflicto"><a href="http://sch01.uniandes.edu.co/" target="_blank" rel="noopener noreferrer">DIOA</a></li>
-            <li class="social-Paradigma"><a href="http://paradigma.uniandes.edu.co/" target="_blank" rel="noopener noreferrer">DIOA</a></li>
-            <li class="social-Forosisis"><a href="https://sistemas.uniandes.edu.co/foros-isis" target="_blank" rel="noopener noreferrer">DIOA</a></li>
-            <li class="social-sisinfo"><a href="http://sisinfo.uniandes.edu.co/" target="_blank" rel="noopener noreferrer">DIOA</a></li>
+            <ul class="GENERAL">
+              <li class="social-Mujeres"><a href="https://sistemas.uniandes.edu.co/mujeresencomputacion/"
+                  target="_blank">DIOA</a></li>
+              <li class="social-Labs"><a href="https://labsis.uniandes.edu.co" target="_blank">DIOA</a></li>
+              <li class="social-Rincon"><a href="https://sistemas.uniandes.edu.co/~rincondelaspirante/sitio/"
+                  target="_blank">DIOA</a></li>
+              <li class="social-Publica"><a
+                  href="https://sistemas.uniandes.edu.co/main/index.php/publicaciones-academia" target="_blank">DIOA</a>
+              </li>
+              <li class="social-Cupi2"><a href="http://cupi2.uniandes.edu.co/" target="_blank">DIOA</a></li>
+              <li class="social-Econtinuada"><a href="http://educacioncontinuada.uniandes.edu.co/index.php/es/"
+                  target="_blank">DIOA</a></li>
+              <li class="social-Conflicto"><a href="http://sch01.uniandes.edu.co/" target="_blank">DIOA</a></li>
+              <li class="social-Paradigma"><a href="http://paradigma.uniandes.edu.co/" target="_blank">DIOA</a></li>
+              <li class="social-Forosisis"><a href="https://forosisis.uniandes.edu.co/" target="_blank">DIOA</a></li>
+              <li class="social-sisinfo"><a href="http://sisinfo.uniandes.edu.co/" target="_blank">DIOA</a></li>
+            </ul>
           </ul>
         </div>
         <br>
@@ -58,11 +135,14 @@
           <br> Universidad de los Andes | Vigilada Mineducación
           <br> Reconocimiento como Universidad: Decreto 1297 del 30 de mayo de 1964.
           <br> Reconocimiento personería jurídica: Resolución 28 del 23 de febrero de 1949 Minjusticia
-          <br> Edificio Mario Laserna Cra 1Este No 19A - 40 Bogotá (Colombia) | Tel: [571] 3394949 Ext: 2860, 2861, 2862 | Fax: [571] 3324325
-          <br> © 2020 - <a href="https://sistemas.uniandes.edu.co/">Departamento de Ingeniería de Sistemas y Computación</a>
+          <br> Edificio Mario Laserna Cra 1Este No 19A - 40 Bogotá (Colombia) | Tel: [571] 3394949 Ext: 2860, 2861, 2862
+          | Fax: [571] 3324325
+          <br> © 2023 - <a href="https://sistemas.uniandes.edu.co/">Departamento de Ingeniería de Sistemas y
+            Computación</a>
         </div>
       </div>
     </div>
   </footer>
 </body>
+
 </html>
