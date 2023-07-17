@@ -13,4 +13,4 @@ En esta tarea vamos a aprender a crear las tablas Bar, Sirven y Bebida del model
 ![](https://raw.githubusercontent.com/DISC-isis2304-ST/Introduccion-a-SQL/a584a09b5dd85b139fa699dd5083ff9e6f326897/modelos/e_relacion.svg)
 
 ## Actividad Sugerida
-Contruir las tablas Bebedor y Visita con base en el modelo entidad-relación de parranderos. No olvides declarar las llaves primarias y las llaves foráneas. 
+Contruir las tablas Bebedores y Frecuentan con base en el modelo entidad-relación de parranderos. No olvides declarar las llaves primarias y las llaves foráneas. 
