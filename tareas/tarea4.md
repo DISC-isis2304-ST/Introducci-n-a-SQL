@@ -13,5 +13,5 @@ En esta tarea aprenderemos sobre la utilidad de las funciones de agregación y l
 Actividad 1: Construir una sentencia que permita obtener el total de bebidas y el promedio del grado de alcohol (redondeado a 2 decimales) de la tabla bebidas.
 
 Actividad 2:
-- Explorar las tablas ALL_CONSTRAINTS y ALL_CONS_COLUMNS
+- Explorar las tablas ALL_CONSTRAINTS y ALL_CONS_COLUMNS.
 - Realizar una consulta que permita saber cuántas restricciones tiene el usuario C##estudiante.
