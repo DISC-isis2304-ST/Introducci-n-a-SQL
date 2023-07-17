@@ -3,6 +3,8 @@
 ## Introducción
 En esta tarea vamos a aprender sobre las operaciones de unión también llamada reunión o Join en inglés.
 
+![](https://raw.githubusercontent.com/DISC-isis2304-ST/Introduccion-a-SQL/main/_layouts/joins.png)
+
 ### Objetivo:
 - Realizar operaciones de consulta sobre varias tablas usando las operaciones Inner Join y Outer Join (en Left, Right y Full). 
 
