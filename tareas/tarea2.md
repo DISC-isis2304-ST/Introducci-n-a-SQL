@@ -1,4 +1,4 @@
-# Tarea 2. DML: Sentencias básicas
+# Tarea 2. DML: Inserción, actualización y eliminación
 
 ## Introducción
 En esta tarea vamos a familiarizarnos con el DML o Data Manipulation Language de SQL, insertando, actualizando y eliminando datos. 
