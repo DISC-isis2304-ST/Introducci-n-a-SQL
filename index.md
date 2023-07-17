@@ -10,7 +10,7 @@ Con este fin, realizaremos diversas tareas a lo largo de este Proyecto Guiado pa
 ![](https://github.com/DISC-isis2304-ST/Introduccion-a-SQL/blob/ff4e42e9c76930f18648177404b9a1601e38040c/modelos/parranderos_UML.png?raw=true)
 
 ## Tareas 
-- **Tarea 1:** [DDL](https://disc-isis2304-st.github.io/Introduccion-a-SQL/tareas/tarea1)
+- **Tarea 1:** [Introducción a DDL](https://disc-isis2304-st.github.io/Introduccion-a-SQL/tareas/tarea1)
 - **Tarea 2:** [DML: Inseción, actualización y eliminación](https://disc-isis2304-st.github.io/Introduccion-a-SQL/tareas/tarea2)
 - **Tarea 3:** [DML: Consultas básicas](https://disc-isis2304-st.github.io/Introduccion-a-SQL/tareas/tarea3)
 - **Tarea 4:** [DML: Consultas intermedias parte 1](https://disc-isis2304-st.github.io/Introduccion-a-SQL/tareas/tarea4)
