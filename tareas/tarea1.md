@@ -1,6 +1,7 @@
 # Tarea 1. DDL Parte 1
 
 ## Introducción
+En esta tarea vamos a aprender a crear las tablas Bar, Sirven y Bebida del modelo de Parranderos, usando DDL y la herramienta SQL Developer.
 
 ### Objetivos:
 - Familiarizarse con las herramientas para interactuar con las tablas (SQL Developer). 
@@ -12,3 +13,4 @@
 ![](https://raw.githubusercontent.com/DISC-isis2304-ST/Introduccion-a-SQL/a584a09b5dd85b139fa699dd5083ff9e6f326897/modelos/e_relacion.svg)
 
 ## Actividad Sugerida
+Contruir las tablas Bebedor y Visita con base en el modelo entidad-relación de parranderos. No olvides declarar las llaves primarias y las llaves foráneas. 
