@@ -41,12 +41,12 @@
       ga('send', 'pageview');
 </script>
     {% endif %}
-    <div class="container-lg px-3 my-5 markdown-body">
+    <div class="container-lg px-3 my-5 markdown-body" id="footer">
       <script>
         fetch('https://raw.githubusercontent.com/DISC-isis2304-ST/Introduccion-a-SQL/main/_layouts/footer.html')
           .then(response => response.text())
           .then(html => {
-            const container = document.querySelector('.container');
+            const container = document.getElementById('footer');
             container.innerHTML = html;
           })
           .catch(error => console.error(error));
